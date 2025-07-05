@@ -2,7 +2,6 @@
 title: "Cómo generar interfaces TypeScript desde una respuesta JSON"
 description: "Aprende paso a paso a transformar respuestas JSON en interfaces limpias de TypeScript usando Visual Studio Code."
 pubDate: "2025-07-04"
-author: "Jimmy Osma"
 heroImage: '../../assets/json-typescript.jpg'
 ---
 
